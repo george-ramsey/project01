@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  
+<category>
+    <pattern>welcome george</pattern>
+    <template>hellow george!!</template>
+</category>
+<category>
+    <pattern>hellow institute of accountancy arusha </pattern>
+    <template>how was the study at iaa?</template>
+</category>
+<category>
+    <pattern>studing are still good  thought there some issues still complicated here </pattern>
+    <template>oohh whats's that?</template>
+</category>
+<category>
+    <pattern>oohh forget it   iaa i want to ask you something </pattern>
+    <template>yes you can!</template>
+</category>
+<category>
+    <pattern>when will you release our results </pattern>
+    <template>oohh george.. i see your desire! but worry out george!!</template>
+</category>
+<category>
+    <pattern>ok I am not worring  </pattern>
+    <template>i promise you george i cant get supplementary!!</template>
+</category>
+<category>
+    <pattern>wow that is good </pattern>
+    <template>yeah because i know you george. you are very bev...😁</template>
+</category>
+<category>
+    <pattern>wow thanks     </pattern>
+    <template>ok george.. its there something else?</template>
+</category>
+<category>
+    <pattern>no iaa</pattern>
+    <template>ok have nice weekend george!!</template>
+</category>
+<category>
+    <pattern>you too   
+adios iaa</pattern>
+    <template>adios too george</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
